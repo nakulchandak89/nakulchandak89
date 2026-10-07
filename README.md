@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:1B2A49,100:2E4A7D&text=Nakul%20Chandak&fontAlign=50&fontAlignY=38&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=AI%20%C2%B7%20Systems%20%C2%B7%20Markets%20%E2%80%94%20built%20for%20real-world%20chaos&descAlignY=58&descSize=16"/>
@@ -6,8 +5,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/Founder-Axior%20Labs-2E4A7D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Co--Founder%20%26%20CBO-Operion%20Technologies-1B2A49?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Patent-Filed-0B1020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Co--Founder%20%26%20CBO-Operation%20Technologies-1B2A49?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Developer%20%26%20Consultant-0B1020?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Patent-Filed%20(Pending)-0B1020?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B.Tech%20CSE-VU%20Pune%20'28-0B1020?style=for-the-badge"/>
 
 </div>
@@ -18,7 +18,7 @@
 
 *(Most people call me **Chanak-ya**.)*
 
-I build things that sit between **AI, systems, and real-world chaos**: agentic workflows, GenAI products, real-time backends, and the hardware that feeds them data. I'm also pulled toward **markets**, because few domains punish sloppy thinking as fast as trading does.
+I build things that sit between **AI, systems, and real-world chaos**: agentic workflows, GenAI products, real-time backends, and the hardware that feeds them data. I'm also pulled toward **fintech and quantitative markets**, because few domains punish sloppy thinking as fast.
 
 I care about complex tech being *useful*, not demo-ready. I also run the business side of what I build, so I know what a feature costs and what it takes to get a client to pay for it.
 
@@ -28,34 +28,42 @@ I care about complex tech being *useful*, not demo-ready. I also run the busines
 
 <table>
 <tr valign="top">
-<td width="33%">
+<td width="50%">
 
-### 📡 Axior Labs
-**Founder**
+### 📡 Founder, Axior Labs
 
 Connecting physical systems (people, assets, equipment, facilities) to digital infrastructure.
 
 `RFID · IoT · Cloud · Analytics · AI`
 
 </td>
-<td width="33%">
+<td width="50%">
 
-### ⚙️ Operion Technologies
-**Co-Founder & CBO**
+### ⚙️ Co-Founder & CBO, Operation Technologies
 
-Operational intelligence and industrial runtime platforms. Production SaaS ERPs delivered for real businesses.
+Production SaaS ERPs delivered for real businesses, from architecture to client contracts.
 
 `React · TypeScript · Supabase · AWS · GCP`
 
 </td>
-<td width="33%">
+</tr>
+<tr valign="top">
+<td width="50%">
 
-### 🧠 AI & Quant Research
-**Independent**
+### 🧾 Freelance Developer & Consultant
 
-Agentic AI, reinforcement learning, and systematic trading strategies.
+ERP systems and web platforms built for clients, from scoping and delivery to support.
 
-`LLM Orchestration · RL · Python`
+`MERN · FastAPI · Postgres · Cloud`
+
+</td>
+<td width="50%">
+
+### 📈 Fintech & Quant Research
+
+Designing and testing systematic trading strategies, plus AI tooling for trade management.
+
+`Python · Backtesting · Risk · Agentic AI`
 
 </td>
 </tr>
@@ -63,13 +71,38 @@ Agentic AI, reinforcement learning, and systematic trading strategies.
 
 ---
 
+## 📜 Patent Filed: AI-Driven Energy Arbitrage System
+
+**Status: patent application filed (pending), through VU-IQube Innovation & Entrepreneurship Centre, Vishwakarma University.**
+*"Filed" means the application has been submitted and is under examination. It is not yet granted.* I'm a **co-inventor**.
+
+**The problem:** Smart grids have fluctuating electricity prices, so there's money in shifting appliance usage to cheap periods. A real-time controller can't wait 500ms-3s for an LLM to respond, and an LLM is exactly what you need to understand human instructions like "keep the AC on while I'm home."
+
+**The invention:** a **dual-agent architecture** that separates the slow brain from the fast one.
+
+- A **Language Processing Agent** (model-agnostic LLM gateway) interprets natural-language constraints and updates reward parameters asynchronously.
+- A **DQN Scheduling Engine** (reinforcement learning) switches appliances in real time and never blocks on the LLM.
+- **DRIP**, the *Dynamic Reward Injection Protocol*, is a non-blocking dual-register IPC that lets the reward function change **mid-episode**.
+- **SNTL**, the *Semantic-to-Numerical Translation Layer*, is a 3-stage NLP pipeline that turns plain-English constraints into Q-value-compatible reward vectors.
+- A prior-art search across USPTO, EPO and IPO found no anticipatory disclosure.
+
+`Agentic AI · Reinforcement Learning (DQN) · NLP · LLM Orchestration · Python`
+
+---
+
+## 📈 Quant Strategy
+
+Built a quantitative trading strategy with **63% accuracy** *([backtested / paper-traded / live: pick one] over [period], [N] trades)*.
+
+```text
+approach   →  systematic, rules-first, no discretionary hero trades
+building   →  strategy research + AI trade-management tooling (paper-first)
+principle  →  every claim backed by a number I can reproduce
+```
+
+---
+
 ## Featured Work
-
-### 🔋 AI-Driven Energy Arbitrage System · *Patent Filed (VU-IQube)*
-
-Co-invented a **dual-agent AI platform** for grid arbitrage. An LLM agent translates natural-language constraints into reward parameters, while a DQN scheduler switches appliances in real time. The core problem was LLM latency (500ms–3s) blocking a real-time control loop, so the design decouples the two with a non-blocking protocol.
-
-`Agentic AI · Reinforcement Learning (DQN) · NLP · Python`
 
 ### 📡 RFID Attendance & Occupancy Tracking
 
@@ -79,7 +112,7 @@ Full device-to-cloud pipeline: UHF RFID readers → MQTT via AWS IoT Core → Fa
 
 ### 🧾 Production SaaS ERPs
 
-Three ERPs delivered through Operion for real clients, covering a multi-role training franchise network, a real-time inventory system with barcode scanning and GPS tracking, and a role-secured academy platform. Highlights: Postgres Row-Level Security, Redis caching (sub-100ms dashboards), Dockerized AWS deployment.
+Three ERPs delivered for real clients: a multi-role training franchise network, a real-time inventory system with barcode scanning and GPS tracking, and a role-secured academy platform. Highlights: Postgres Row-Level Security, Redis caching (sub-100ms dashboards), Dockerized AWS deployment.
 
 `React 19 · TypeScript · Supabase · Redis · Docker · GCP Cloud Run`
 
@@ -91,20 +124,6 @@ Three ERPs delivered through Operion for real clients, covering a multi-role tra
 | **ParkSync** | Smart parking platform: slot booking, FASTag verification, ML parking validation from live camera |
 | **Roomielink** | AI roommate matching using preference and lifestyle embeddings |
 | **Gesture-Controlled Bot** | OpenCV hand-gesture control for a hardware bot, 🏆 National Science Day Hackathon winner |
-
----
-
-## Markets & Quant
-
-```text
-approach   →  systematic, rules-first, no discretionary hero trades
-building   →  strategy research + trade-management tooling (paper-first)
-principle  →  report drawdown and risk, not just win rate
-```
-
-I build and stress-test trading strategies the way I build software: define the spec, break it, then trust the numbers.
-
-<!-- Add here ONLY once you can back it: strategy metrics (period, sample size, win rate, risk:reward, max drawdown, out-of-sample result) + repo link -->
 
 ---
 
@@ -122,29 +141,18 @@ I build and stress-test trading strategies the way I build software: define the 
 
 ---
 
-## Currently
+## 🏆 Achievements
 
-```text
-exploring  →  AI infrastructure, autonomous workflows, scalable systems
-shipping   →  client platforms through Operion and Axior
-studying   →  quant finance, options Greeks, system design
-goal       →  places where hardware and software stop fighting each other
-```
-
----
-
-## How I Work
-
-- **Scope first, code second.** A vague brief is a loss waiting to happen.
-- **Decouple the slow thing from the fast thing.** Most real-time systems fail at that boundary.
-- **Contracts are part of engineering.** Acceptance criteria and milestones matter as much as architecture.
-- **Show the numbers.** Latency, drawdown, load times: if I claim it, I can measure it.
+- **Patent filed**: VU-IQube, Vishwakarma University
+- **Winner**: National Science Day Hackathon (VU)
+- **Runner-up**: Codejunky Hackathon (COEP Tech), PICT Hackathon, SIH Internal Round
+- **Certified**: Oracle Java Developer, Oracle SQL Developer, Columbia University ML course, CNN & RNN specialization
 
 ---
 
 ## Let's Talk
 
-Messy operational problem, an AI-agent idea that needs to survive production, or a fintech build? Reach out.
+Messy operational problem, an AI agent that needs to survive production, or a fintech build? Reach out.
 
 <div align="center">
 
