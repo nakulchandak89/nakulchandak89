@@ -1,69 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:1B2A49,100:2E4A7D&text=Nakul%20Chandak&fontAlign=50&fontAlignY=38&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=AI%20%C2%B7%20Systems%20%C2%B7%20Markets%20%E2%80%94%20built%20for%20real-world%20chaos&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0f766e,100:2563eb&text=NAKUL%20CHANDAK&fontAlign=50&fontAlignY=36&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Booting%20AI%20%C2%B7%20Systems%20%C2%B7%20Markets...&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Founder-Axior%20Labs-2E4A7D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Co--Founder%20%26%20CBO-Operation%20Technologies-1B2A49?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Freelance-Developer%20%26%20Consultant-0B1020?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Patent-Filed%20(Pending)-0B1020?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/B.Tech%20CSE-VU%20Pune%20'28-0B1020?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=900&lines=Founder+%26+Product+Owner+%40+Axior+Labs;Freelance+Dev+%C2%B7+10%2B+Clients+Delivered;Patent+Filed+%C2%B7+Agentic+AI+%C2%B7+Quant+Research;Where+hardware+and+software+stop+fighting" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Founder%20%26%20Product%20Owner-Axior%20Labs-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-10%2B%20Clients%20Since%20Apr%202026-f59e0b?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Patent-Filed%20(Pending)-10b981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Quant%20%7C%20Systems-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VU%20Pune-CSE%20'28-64748b?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Hey, I'm Nakul 👋
+### Boot Sequence
 
-*(Most people call me **Chanak-ya**.)*
+```text
+$ ping brain.nakul.dev
 
-I build things that sit between **AI, systems, and real-world chaos**: agentic workflows, GenAI products, real-time backends, and the hardware that feeds them data. I'm also pulled toward **fintech and quantitative markets**, because few domains punish sloppy thinking as fast.
+64 bytes from axior-labs.service          time=29ms
+64 bytes from freelance.clients (10+)     time=never_idle
+64 bytes from quant.engine                time=market_hours
+64 bytes from risk.management             time=always_on
 
-I care about complex tech being *useful*, not demo-ready. I also run the business side of what I build, so I know what a feature costs and what it takes to get a client to pay for it.
+Brain online. Drawdown tolerance: low. Curiosity: unbounded.
+```
 
 ---
 
-## What I Do
+## Hey, I'm Nakul.
+
+*(Most people call me **Chanak-ya**.)*
+
+CS student, founder, freelancer, and someone who keeps ending up where **AI, systems and real-world chaos** meet. I build agentic workflows, real-time backends and the hardware that feeds them, and I'm pulled toward **fintech and quant markets** because few domains punish sloppy thinking this fast.
+
+I run the business side of what I build too, so I know what a feature costs and what it takes to get a client to pay for it.
+
+---
+
+## Current Orbit
 
 <table>
 <tr valign="top">
-<td width="50%">
+<td width="33%">
 
-### 📡 Founder, Axior Labs
+**📡 Axior Labs**
+Founder & Product Owner
+`Building`
 
 Connecting physical systems (people, assets, equipment, facilities) to digital infrastructure.
 
-`RFID · IoT · Cloud · Analytics · AI`
+`RFID · IoT · Cloud · AI`
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### ⚙️ Co-Founder & CBO, Operation Technologies
+**🧾 Freelance**
+Developer & Consultant
+`10+ clients since Apr 2026`
 
-Production SaaS ERPs delivered for real businesses, from architecture to client contracts.
+ERP systems and web platforms for real clients, from scoping to delivery and support.
 
-`React · TypeScript · Supabase · AWS · GCP`
+`MERN · FastAPI · Postgres · Cloud`
+
+</td>
+<td width="33%">
+
+**📈 Quant Research**
+Fintech
+`Testing`
+
+Systematic trading strategies plus AI tooling for trade management.
+
+`Python · Backtesting · Risk`
 
 </td>
 </tr>
 <tr valign="top">
 <td width="50%">
 
-### 🧾 Freelance Developer & Consultant
+**📜 Patent**
+Co-Inventor
+`Filed (Pending)`
 
-ERP systems and web platforms built for clients, from scoping and delivery to support.
+AI-driven energy arbitrage with a dual-agent architecture. Details below.
 
-`MERN · FastAPI · Postgres · Cloud`
+`Agentic AI · RL · NLP`
 
 </td>
 <td width="50%">
 
-### 📈 Fintech & Quant Research
+**🧠 Rabbit Hole**
+Ongoing
+`Exploring`
 
-Designing and testing systematic trading strategies, plus AI tooling for trade management.
+AI infrastructure, autonomous workflows, and scalable real-time systems.
 
-`Python · Backtesting · Risk · Agentic AI`
+`Depth: increasing`
 
 </td>
 </tr>
@@ -73,17 +112,17 @@ Designing and testing systematic trading strategies, plus AI tooling for trade m
 
 ## 📜 Patent Filed: AI-Driven Energy Arbitrage System
 
-**Status: patent application filed (pending), through VU-IQube Innovation & Entrepreneurship Centre, Vishwakarma University.**
-*"Filed" means the application has been submitted and is under examination. It is not yet granted.* I'm a **co-inventor**.
+**Status: application filed (pending) through VU-IQube Innovation & Entrepreneurship Centre, Vishwakarma University. I'm a co-inventor.**
+*"Filed" means submitted and under examination. It is not yet granted.*
 
-**The problem:** Smart grids have fluctuating electricity prices, so there's money in shifting appliance usage to cheap periods. A real-time controller can't wait 500ms-3s for an LLM to respond, and an LLM is exactly what you need to understand human instructions like "keep the AC on while I'm home."
+**The problem.** Electricity prices on a smart grid fluctuate, so shifting appliance usage to cheap periods saves money. But a real-time controller can't wait 500ms to 3s for an LLM, and an LLM is exactly what you need to understand instructions like "keep the AC on while I'm home."
 
-**The invention:** a **dual-agent architecture** that separates the slow brain from the fast one.
+**The invention.** A dual-agent system that separates the slow brain from the fast one:
 
-- A **Language Processing Agent** (model-agnostic LLM gateway) interprets natural-language constraints and updates reward parameters asynchronously.
-- A **DQN Scheduling Engine** (reinforcement learning) switches appliances in real time and never blocks on the LLM.
-- **DRIP**, the *Dynamic Reward Injection Protocol*, is a non-blocking dual-register IPC that lets the reward function change **mid-episode**.
-- **SNTL**, the *Semantic-to-Numerical Translation Layer*, is a 3-stage NLP pipeline that turns plain-English constraints into Q-value-compatible reward vectors.
+- **Language Processing Agent**: a model-agnostic LLM gateway that interprets natural-language constraints and updates reward parameters asynchronously.
+- **DQN Scheduling Engine**: a reinforcement-learning scheduler that switches appliances in real time and never blocks on the LLM.
+- **DRIP** (Dynamic Reward Injection Protocol): a non-blocking dual-register IPC that lets the reward function change *mid-episode*.
+- **SNTL** (Semantic-to-Numerical Translation Layer): a 3-stage NLP pipeline that turns plain-English constraints into Q-value-compatible reward vectors.
 - A prior-art search across USPTO, EPO and IPO found no anticipatory disclosure.
 
 `Agentic AI · Reinforcement Learning (DQN) · NLP · LLM Orchestration · Python`
@@ -102,68 +141,163 @@ principle  →  every claim backed by a number I can reproduce
 
 ---
 
-## Featured Work
+### Developer Config
 
-### 📡 RFID Attendance & Occupancy Tracking
-
-Full device-to-cloud pipeline: UHF RFID readers → MQTT via AWS IoT Core → FastAPI → live React dashboard (WebSockets, 25-room occupancy heatmap). Multi-reader synchronization included.
-
-`RFID · MQTT · AWS IoT Core · FastAPI · React`
-
-### 🧾 Production SaaS ERPs
-
-Three ERPs delivered for real clients: a multi-role training franchise network, a real-time inventory system with barcode scanning and GPS tracking, and a role-secured academy platform. Highlights: Postgres Row-Level Security, Redis caching (sub-100ms dashboards), Dockerized AWS deployment.
-
-`React 19 · TypeScript · Supabase · Redis · Docker · GCP Cloud Run`
-
-### ⚡ Smaller Builds
-
-| Project | What it is |
-|:--|:--|
-| **GPU Medical Imaging Pipeline** | Brain-tumor-detection CNN with hand-written CUDA kernels (CuPy + CUDA C++) |
-| **ParkSync** | Smart parking platform: slot booking, FASTag verification, ML parking validation from live camera |
-| **Roomielink** | AI roommate matching using preference and lifestyle embeddings |
-| **Gesture-Controlled Bot** | OpenCV hand-gesture control for a hardware bot, 🏆 National Science Day Hackathon winner |
+```yaml
+focus: [agentic_ai, real_time_backends, iot, quant]
+stack_style: boring_tech_that_scales
+debugging: logs_first_then_prayer
+risk_management: non_negotiable
+default_response: "show me the numbers"
+```
 
 ---
 
-## Stack
+## Brain Modules
 
-| Layer | Tools |
+| Category | Stack |
 |:--|:--|
 | Languages | <img src="https://skillicons.dev/icons?i=python,ts,cpp,c,java" /> + SQL, CUDA |
 | AI / ML | <img src="https://skillicons.dev/icons?i=tensorflow,opencv" /> + LLM orchestration, RAG, RL (DQN), YOLOv5, CuPy |
 | Backend | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis" /> + MQTT, WebSockets |
 | Frontend | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" /> + Zustand, TanStack Query |
-| Data | <img src="https://skillicons.dev/icons?i=postgres,supabase" /> + NeonDB, Upstash Redis |
+| Storage | <img src="https://skillicons.dev/icons?i=postgres,supabase" /> + NeonDB, Upstash Redis |
 | Cloud | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,cloudflare,vercel" /> |
 | Hardware | RFID (UHF) · ESP32 · Arduino · GPIO · I2C |
 
 ---
 
-## 🏆 Achievements
+## Featured Builds
 
-- **Patent filed**: VU-IQube, Vishwakarma University
-- **Winner**: National Science Day Hackathon (VU)
-- **Runner-up**: Codejunky Hackathon (COEP Tech), PICT Hackathon, SIH Internal Round
-- **Certified**: Oracle Java Developer, Oracle SQL Developer, Columbia University ML course, CNN & RNN specialization
+<table>
+<tr valign="top">
+<td width="50%">
+
+**📡 RFID Attendance & Occupancy Tracking**
+
+UHF RFID readers → MQTT via AWS IoT Core → FastAPI → live React dashboard with a 25-room occupancy heatmap and multi-reader sync.
+
+`RFID · MQTT · AWS IoT Core · FastAPI`
+
+</td>
+<td width="50%">
+
+**🧾 Production SaaS ERPs (x3)**
+
+Franchise-network training ERP, real-time inventory with barcode and GPS, and a role-secured academy platform. RLS, Redis caching, sub-100ms dashboards.
+
+`React 19 · Supabase · Redis · Docker`
+
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
+
+**🧬 GPU Medical Imaging Pipeline**
+
+Brain-tumor-detection CNN with hand-written CUDA kernels (CuPy + CUDA C++) and tuned grid/block dimensions.
+
+`CUDA · CuPy · CNN`
+
+</td>
+<td width="50%">
+
+**🅿️ ParkSync · 🏠 Roomielink · 🤖 Gesture Bot**
+
+Smart parking with FASTag and ML validation, AI roommate matching via embeddings, and an OpenCV gesture-controlled bot (🏆 National Science Day winner).
+
+`FastAPI · React · OpenCV`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Let's Talk
+### Experiment Queue
 
-Messy operational problem, an AI agent that needs to survive production, or a fintech build? Reach out.
+```text
+[✓] Write CUDA kernels because the framework was "too slow"
+[✓] Teach an RL agent to coexist with an LLM
+[✓] Make RFID readers talk to the cloud
+[✓] Find the look-ahead bias before the market does
+[ ] Stop starting new projects
+[ ] Sleep before a deadline
+
+Last two items postponed indefinitely.
+```
+
+### Shell History
+
+```text
+1  backtest strategy
+2  sharpe looks too good
+3  find the look-ahead bias
+4  fix the look-ahead bias
+5  sharpe looks normal
+6  ok now it's real
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+[![Trophies](https://trophy.benkou.dev/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-light.svg" />
+</picture>
+
+</div>
+
+---
+
+## Achievements Unlocked
+
+```text
+🏆 Filed a Patent (co-inventor)         — Completed
+🏆 Founded Axior Labs                   — Completed
+🏆 Delivered for 10+ Freelance Clients  — Completed
+🏆 Shipped 3 Production ERPs            — Completed
+🏆 Wrote CUDA Kernels By Hand           — Completed
+🏆 National Science Day Hackathon       — Winner
+🏆 Runner-Up: Codejunky (COEP), PICT, SIH Internal — Collected
+🏆 Oracle Certified: Java + SQL         — Completed
+🏆 Columbia University ML Course        — Completed
+🏆 Risk of Ruin                         — Still studying it
+```
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:YOUR_PUBLIC_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-1B2A49?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -172,6 +306,17 @@ Messy operational problem, an AI agent that needs to survive production, or a fi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0B1020,50:1B2A49,100:2E4A7D"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:020617,45:0f766e,100:2563eb"/>
+
+```text
+shutdown...
+Stopping services...
+Stopping curiosity...
+
+ERROR: process "curiosity" refused to terminate.
+Force kill? [Y/n]: n
+
+Session left running.
+```
 
 </div>
